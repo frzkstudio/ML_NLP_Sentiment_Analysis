@@ -32,9 +32,3 @@ The project is organized as follows:
 
 3. **Models**: Contains saved machine learning models trained for sentiment analysis.
 
-## Usage
-
-1. Install the required dependencies listed in the `requirements.txt` file:
-
-```bash
-pip install -r requirements.txt
