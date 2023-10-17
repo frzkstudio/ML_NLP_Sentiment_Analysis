@@ -23,5 +23,5 @@ The results of the sentiment analysis, including data visualizations and key ins
 
 ## How to Use
 
-3. Review the Jupyter Notebook ([Analysis.ipynb](/Analysis.ipynb)) for the complete code and detailed analysis.
-4. Explore the [Results](/Results) directory for data visualizations and key findings.
+1. Review the Jupyter Notebook ([Analysis.ipynb](https://github.com/frzkstudio/ML_NLP_Sentiment_Analysis/blob/main/source%20code%20-%20NLP%20Public%20Analysis%20Opinion.ipynb)) for the complete code and detailed analysis.
+2. Explore the [Results](/presentation.pdf) directory for data visualizations and key findings.
