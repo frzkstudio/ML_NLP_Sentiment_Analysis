@@ -19,7 +19,7 @@ The sentiment analysis is performed using natural language processing (NLP) tech
 
 ## Results
 
-The results of the sentiment analysis, including data visualizations and key insights, are available in the [Results](/Results) directory. These insights provide an overview of how Twitter users responded to Indonesia's decision to withdraw as the World Cup host.
+The results of the sentiment analysis, including data visualizations and key insights, are available in the [presentation](/presentation.pdf) directory. These insights provide an overview of how Twitter users responded to Indonesia's decision to withdraw as the World Cup host.
 
 ## How to Use
 
