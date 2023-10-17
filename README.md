@@ -1,34 +1,27 @@
-# NLP for Sentiment Analysis
+# Twitter Sentiment Analysis on Indonesia's Withdrawal as World Cup Host
 
-![Sentiment Analysis](https://img.shields.io/badge/Sentiment%20Analysis-NLP-success.svg)
+## Introduction
 
-This repository contains a Natural Language Processing (NLP) project focused on sentiment analysis. Sentiment analysis involves analyzing text data to determine the sentiment or emotional tone expressed in the text, which can be positive, negative, or neutral.
+This repository contains a comprehensive sentiment analysis of Twitter users' reactions to the decision by Indonesia to withdraw as the host country for the FIFA World Cup. The analysis aims to understand the public sentiment, opinions, and emotions expressed on Twitter following this announcement.
 
-## Project Overview
+## Dataset
 
-### Description
-- Conducted sentiment analysis on customer reviews from an e-commerce platform to gain insights into customer opinions and product satisfaction.
-- Built and evaluated machine learning models for sentiment classification.
+The analysis is based on a dataset of tweets collected during the period of Indonesia's withdrawal announcement. The dataset contains tweets with keywords related to the World Cup, Indonesia, and the withdrawal.
 
-### Tools/Technologies Used
-- Python
-- NLTK (Natural Language Toolkit)
-- scikit-learn
-- Jupyter Notebook
+## Methodology
 
-### Skills Demonstrated
-- Text preprocessing: Tokenization, stemming, and stop word removal.
-- Feature extraction: TF-IDF (Term Frequency-Inverse Document Frequency).
-- Model building: Implemented and evaluated various machine learning models.
-- Evaluation metrics: Accuracy, precision, recall, F1-score for sentiment classification.
+The sentiment analysis is performed using natural language processing (NLP) techniques. The steps involved in the analysis include:
 
-### Project Structure
+1. Data Collection: Collecting tweets related to the topic of interest.
+2. Preprocessing: Text cleaning, tokenization, and data preparation.
+3. Sentiment Classification: Assigning sentiment labels (positive, negative, neutral) to each tweet.
+4. Visualization: Creating visual representations of sentiment distribution.
 
-The project is organized as follows:
+## Results
 
-1. **Data**: Contains the dataset used for sentiment analysis. The dataset includes customer reviews with labeled sentiments (positive, negative, neutral).
+The results of the sentiment analysis, including data visualizations and key insights, are available in the [Results](/Results) directory. These insights provide an overview of how Twitter users responded to Indonesia's decision to withdraw as the World Cup host.
 
-2. **Notebooks**: Includes Jupyter notebooks for each step of the project, including data exploration, preprocessing, model training, and evaluation.
+## How to Use
 
-3. **Models**: Contains saved machine learning models trained for sentiment analysis.
-
+3. Review the Jupyter Notebook ([Analysis.ipynb](/Analysis.ipynb)) for the complete code and detailed analysis.
+4. Explore the [Results](/Results) directory for data visualizations and key findings.
