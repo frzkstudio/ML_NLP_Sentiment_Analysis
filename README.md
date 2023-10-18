@@ -14,7 +14,7 @@ The sentiment analysis is performed using natural language processing (NLP) tech
 
 1. Data Collection: Collecting tweets related to the topic of interest.
 2. Preprocessing: Text cleaning, tokenization, and data preparation.
-3. Sentiment Classification: Assigning sentiment labels (positive, negative, neutral) to each tweet.
+3. Sentiment Classification: Assigning sentiment labels (positive and negative to each tweet.
 4. Visualization: Creating visual representations of sentiment distribution.
 
 ## Results
@@ -23,5 +23,5 @@ The results of the sentiment analysis, including data visualizations and key ins
 
 ## How to Use
 
-1. Review the Jupyter Notebook ([Analysis.ipynb](https://github.com/frzkstudio/ML_NLP_Sentiment_Analysis/blob/main/source%20code%20-%20NLP%20Public%20Analysis%20Opinion.ipynb)) for the complete code and detailed analysis.
+1. Review the [Jupyter Notebook](https://github.com/frzkstudio/ML_NLP_Sentiment_Analysis/blob/main/source%20code%20-%20NLP%20Public%20Analysis%20Opinion.ipynb) for the complete code and detailed analysis.
 2. Explore the [Results](/presentation.pdf) directory for data visualizations and key findings.
